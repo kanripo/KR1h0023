@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 蒙齋中庸講義
-#+DATE: 2016-04-12 14:00:00.017350
+#+DATE: 2016-04-12 14:00:00.218016
 #+PROPERTY: ID KR1h0023
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 3
 <pb:KR1h0023_WYG_003-1a>¶
 　　欽定四庫全書¶
@@ -561,7 +561,7 @@
 ¶
 　　天道之神所以能體物者誠一之至未始離於物¶
 也至誠與天道相似故神神而明之所謂格物也¶
-物格而無不明則善不善之將然者無所&KR0467;於隱¶
+物格而無不明則善不善之將然者無所潜於隱¶
 <pb:KR1h0023_WYG_003-31a>¶
 伏矣¶
 ¶
